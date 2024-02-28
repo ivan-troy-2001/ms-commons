@@ -1,4 +1,4 @@
-module it/apps/commons
+module github.com/ivan-troy-2001/ms-commons
 
 go 1.21.1
 
